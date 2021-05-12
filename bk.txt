@@ -1,0 +1,8 @@
+<!-- <td> {{ $flightVal->DepartureAirport->LocationCode }} </td>
+ 							<td> {{ $flightVal->ArrivalAirport->LocationCode }} </td>
+ 							<td> {{ $flightVal->DepartureDateTime }} </td>
+ 							<td> {{ $flightVal->ArrivalDateTime }} </td> -->
+ 							
+ 							<!-- <td> {{ $flightVal->AirItinerary->OriginDestinationOptions->OriginDestinationOption[0]->FlightSegment->ArrivalDateTime->LocationCode }} </td>
+ 							<td> {{ $flightVal->AirItinerary->OriginDestinationOptions->OriginDestinationOption[0]->FlightSegment[0]->DepartureDateTime }} </td>
+ 							<td> {{ $flightVal->AirItinerary->OriginDestinationOptions->OriginDestinationOption[0]->FlightSegment[0]->ArrivalDateTime }} </td> -->
